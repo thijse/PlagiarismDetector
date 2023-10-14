@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# Plagriarism Dectector
+# Plagiarism Dectector
 A sample showing how Vector comparison can be used to easily and effectively detect plagiarismm using a  simple in-memory vector store 
 
 The repository contains three main projects:
